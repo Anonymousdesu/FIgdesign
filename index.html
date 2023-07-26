@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ingrid Darling:wght@400&display=swap"
+    />
+
+    <style>
+      @font-face {
+        :font-family: "Times New Roman";
+        src: url("times.ttf");
+        font-weight: 400;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      class="relative bg-white w-full h-[844px] overflow-hidden text-center text-base text-black font-inter"
+    >
+      <div
+        class="absolute top-[0px] left-[0px] bg-white w-[390px] h-[844px]"
+      ></div>
+      <div
+        class="absolute h-[0.59%] w-[36%] top-[98.1%] right-[31.95%] bottom-[1.3%] left-[32.05%] rounded-3xs bg-black"
+      ></div>
+      <div
+        class="absolute top-[0px] left-[0px] w-[390px] h-7 text-left text-xs"
+      >
+        <div
+          class="absolute top-[0px] left-[0px] bg-gainsboro w-[390px] h-7"
+        ></div>
+        <div class="absolute top-[7px] left-[38px] inline-block w-[60px] h-4">
+          11:59 PM
+        </div>
+        <img
+          class="absolute top-[4px] left-[332px] w-[26px] h-6 overflow-hidden"
+          alt=""
+          src="/public/frame.svg"
+        />
+
+        <img
+          class="absolute h-[64.29%] w-[6.04%] top-[17.86%] right-[16.52%] bottom-[17.86%] left-[77.44%] max-w-full overflow-hidden max-h-full"
+          alt=""
+          src="/public/vector.svg"
+        />
+      </div>
+      <button
+        class="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[48px] left-[26px] w-6 h-6 overflow-hidden"
+        id="frame"
+      >
+        <img
+          class="absolute h-[53.03%] w-[53.03%] top-[23.49%] right-[23.48%] bottom-[23.48%] left-[23.49%] max-w-full overflow-hidden max-h-full"
+          alt=""
+          src="/public/vector1.svg"
+        />
+      </button>
+      <b
+        class="absolute top-[51px] left-[157px] inline-block text-left w-[75px] h-[19px]"
+        >New post</b
+      >
+      <button
+        class="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[51px] left-[326px] text-base font-bold font-inter text-royalblue-200 text-left inline-block w-[42px] h-[17px]"
+        id="next"
+      >
+        Next
+      </button>
+      <img
+        class="absolute top-[80px] left-[0px] w-[390px] h-[392px] object-cover"
+        alt=""
+        src="/public/rectangle-33@2x.png"
+      />
+
+      <div
+        class="absolute top-[784px] left-[86px] rounded-[13px] bg-darkgray w-[217px] h-[26px]"
+      ></div>
+      <b
+        class="absolute top-[calc(50%_+_365px)] left-[calc(50%_-_102px)] inline-block w-12 h-[19px]"
+        >Post</b
+      >
+      <b
+        class="absolute top-[calc(50%_+_365px)] left-[calc(50%_-_48px)] inline-block w-12 h-[19px]"
+        >Story</b
+      >
+      <b
+        class="absolute top-[calc(50%_+_365px)] left-[calc(50%_+_6px)] inline-block w-12 h-[19px]"
+        >Video</b
+      >
+      <b
+        class="absolute top-[calc(50%_+_365px)] left-[calc(50%_+_60px)] inline-block w-12 h-[19px]"
+        >Live</b
+      >
+    </div>
+
+    <script>
+      var frame = document.getElementById("frame");
+      if (frame) {
+        frame.addEventListener("click", function (e) {
+          window.location.href = "./IPhone143.html";
+        });
+      }
+      
+      var next = document.getElementById("next");
+      if (next) {
+        next.addEventListener("click", function (e) {
+          window.location.href = "./IPhone143.html";
+        });
+      }
+      </script>
+  </body>
+</html>

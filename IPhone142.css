@@ -1,0 +1,196 @@
+.shape13 {
+  position: absolute;
+  height: 0.62%;
+  width: 37.4%;
+  top: 98.38%;
+  right: -97.78%;
+  bottom: 1%;
+  left: 160.39%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.iphone-14-2-child,
+.iphone-14-2-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 361px;
+  height: 24px;
+}
+.iphone-14-2-inner {
+  width: 390px;
+  height: 28px;
+}
+.powered-by3 {
+  margin: 0;
+}
+.powered-by-txt-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.powered-by2 {
+  position: absolute;
+  top: 681px;
+  left: 101px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 187px;
+  height: 49px;
+}
+.firebase-ar21-1-11 {
+  top: 706px;
+  left: 132px;
+  width: 120px;
+  height: 60px;
+}
+.firebase-ar21-1-11,
+.frame-icon9,
+.vector-icon12 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon12 {
+  height: 2.13%;
+  width: 6.04%;
+  top: 0.71%;
+  right: 15.24%;
+  bottom: 97.16%;
+  left: 78.72%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-icon9 {
+  top: 4px;
+  left: 332px;
+  width: 26px;
+  height: 24px;
+}
+.register2 {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 148px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.component2,
+.register1 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+.register1 {
+  top: 193px;
+  left: 119px;
+  width: 148px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 38px;
+  color: #325bc3;
+  font-family: "Ingrid Darling";
+}
+.component2 {
+  height: 4.15%;
+  width: 76.92%;
+  top: 30.21%;
+  right: 11.54%;
+  bottom: 65.64%;
+  left: 11.54%;
+  background-color: #d9d9d9;
+  border: 1px solid #c4c3c3;
+  box-sizing: border-box;
+  padding: 8px 17px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: rgba(0, 0, 0, 0.5);
+}
+.create-password {
+  position: relative;
+}
+.component3 {
+  position: absolute;
+  height: 4.15%;
+  width: 76.92%;
+  top: 36.97%;
+  right: 11.54%;
+  bottom: 58.89%;
+  left: 11.54%;
+  background-color: #d9d9d9;
+  border: 1px solid #c4c3c3;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 17px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: rgba(0, 0, 0, 0.5);
+}
+.button-item {
+  position: relative;
+  border-radius: 6px;
+  background-color: #325bc3;
+  width: 300px;
+  height: 35px;
+  cursor: pointer;
+  z-index: 0;
+}
+.button4,
+.next1 {
+  position: absolute;
+  width: 300px;
+  display: flex;
+  align-items: center;
+}
+.next1 {
+  margin: 0 !important;
+  top: 9px;
+  left: 0;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-family: "Times New Roman";
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  z-index: 1;
+}
+.button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  top: 369px;
+  left: 45px;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.union-icon13 {
+  position: relative;
+  width: 12.21px;
+  height: 11.35px;
+  cursor: pointer;
+}
+.pm10 {
+  position: absolute;
+  top: 7px;
+  left: 38px;
+  font-size: 12px;
+  font-family: Inter;
+  display: inline-block;
+  width: 60px;
+  height: 16px;
+}
+.iphone-14-2 {
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: #000;
+  font-family: "Times New Roman";
+}

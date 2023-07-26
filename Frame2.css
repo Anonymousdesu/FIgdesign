@@ -1,0 +1,88 @@
+.archive,
+.privacy-and-security,
+.report-problem {
+  position: absolute;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  height: 43px;
+}
+.report-problem {
+  top: 379px;
+  left: 0;
+  text-align: center;
+  justify-content: center;
+  width: 137px;
+}
+.archive,
+.privacy-and-security {
+  width: 172px;
+}
+.privacy-and-security {
+  top: 320px;
+  left: 0;
+  text-align: center;
+  justify-content: center;
+}
+.archive {
+  top: 202px;
+  left: 5px;
+}
+.activity-log {
+  top: 143px;
+  width: 172px;
+}
+.activity-log,
+.change-password1,
+.saved {
+  position: absolute;
+  left: 5px;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  height: 43px;
+}
+.change-password1 {
+  top: 84px;
+  width: 172px;
+  cursor: pointer;
+}
+.saved {
+  top: 261px;
+  width: 167px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 731px;
+  left: 42px;
+  border-radius: 17px;
+  width: 103px;
+  height: 27px;
+  cursor: pointer;
+}
+.log-out {
+  position: absolute;
+  top: 739px;
+  left: 62px;
+  font-size: 12px;
+  letter-spacing: -0.01em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 63px;
+  height: 11px;
+}
+.report-problem-parent {
+  position: relative;
+  background-color: #211f1f;
+  width: 188px;
+  height: 844px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Comfortaa;
+}

@@ -1,0 +1,17 @@
+.b75d252-18aa-41a6-9e55-3e38a42-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 420px;
+  height: 381px;
+  object-fit: cover;
+}
+.frame-pic-3 {
+  position: relative;
+  background-color: #fff;
+  width: 420px;
+  height: 381px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+}

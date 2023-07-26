@@ -1,0 +1,164 @@
+.iphone-14-11-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 390px;
+  height: 844px;
+}
+.shape1 {
+  height: 0.59%;
+  width: 36%;
+  top: 98.1%;
+  right: 31.95%;
+  bottom: 1.3%;
+  left: 32.05%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.pm1,
+.shape1,
+.top-child {
+  position: absolute;
+}
+.top-child {
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 390px;
+  height: 28px;
+}
+.pm1 {
+  top: 7px;
+  left: 38px;
+  display: inline-block;
+  width: 60px;
+  height: 16px;
+}
+.frame-icon1,
+.vector-icon1 {
+  position: absolute;
+  top: 4px;
+  left: 332px;
+  width: 26px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 64.29%;
+  width: 6.04%;
+  top: 17.86%;
+  right: 16.52%;
+  bottom: 17.86%;
+  left: 77.44%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 28px;
+  text-align: left;
+  font-size: 12px;
+}
+.frame1,
+.vector-icon2 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon2 {
+  height: 53.03%;
+  width: 53.03%;
+  top: 23.49%;
+  right: 23.48%;
+  bottom: 23.48%;
+  left: 23.49%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 48px;
+  left: 26px;
+  width: 24px;
+  height: 24px;
+}
+.new-post,
+.next {
+  position: absolute;
+  top: 51px;
+  left: 157px;
+  display: inline-block;
+  text-align: left;
+  width: 75px;
+  height: 19px;
+}
+.next {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 326px;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: Inter;
+  color: #325bc3;
+  width: 42px;
+  height: 17px;
+}
+.iphone-14-11-item {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 390px;
+  height: 392px;
+  object-fit: cover;
+}
+.iphone-14-11-inner {
+  position: absolute;
+  top: 784px;
+  left: 86px;
+  border-radius: 13px;
+  background-color: #b1b1b1;
+  width: 217px;
+  height: 26px;
+}
+.live,
+.post,
+.story,
+.video {
+  position: absolute;
+  top: calc(50% + 365px);
+  left: calc(50% - 102px);
+  display: inline-block;
+  width: 48px;
+  height: 19px;
+}
+.live,
+.story,
+.video {
+  left: calc(50% - 48px);
+}
+.live,
+.video {
+  left: calc(50% + 6px);
+}
+.live {
+  left: calc(50% + 60px);
+}
+.iphone-14-11 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}

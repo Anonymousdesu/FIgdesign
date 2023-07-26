@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Frame2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ingrid Darling:wght@400&display=swap"
+    />
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
@@ -20,10 +24,6 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&display=swap"
     />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Ingrid Darling:wght@400&display=swap"
-    />
 
     <style>
       @font-face {
@@ -34,52 +34,23 @@
     </style>
   </head>
   <body>
-    <div
-      class="relative bg-gray-200 w-[188px] h-[844px] overflow-hidden max-w-[90%] max-h-[90%] text-left text-base text-white font-comfortaa"
-    >
-      <div
-        class="absolute top-[379px] left-[0px] tracking-[-0.01em] text-center flex items-center justify-center w-[137px] h-[43px]"
-      >
-        Report problem
-      </div>
-      <div
-        class="absolute top-[320px] left-[0px] tracking-[-0.01em] text-center flex items-center justify-center w-[172px] h-[43px]"
-      >
-        Privacy and security
-      </div>
-      <div
-        class="absolute top-[202px] left-[5px] tracking-[-0.01em] flex items-center w-[172px] h-[43px]"
-      >
-        Archive
-      </div>
-      <div
-        class="absolute top-[143px] left-[5px] tracking-[-0.01em] flex items-center w-[172px] h-[43px]"
-      >
-        Activity log
-      </div>
-      <div
-        class="absolute top-[84px] left-[5px] tracking-[-0.01em] flex items-center w-[172px] h-[43px] cursor-pointer"
-        id="popupchangePasswordText"
-      >
+    <div class="report-problem-parent">
+      <div class="report-problem">Report problem</div>
+      <div class="privacy-and-security">Privacy and security</div>
+      <div class="archive">Archive</div>
+      <div class="activity-log">Activity log</div>
+      <div class="change-password1" id="popupchangePasswordText">
         Change password
       </div>
-      <div
-        class="absolute top-[261px] left-[5px] tracking-[-0.01em] flex items-center w-[167px] h-[43px]"
-      >
-        Saved
-      </div>
+      <div class="saved">Saved</div>
       <img
-        class="absolute top-[731px] left-[42px] rounded-[17px] w-[103px] h-[27px] cursor-pointer"
+        class="rectangle-icon"
         alt=""
-        src="/public/rectangle-28.svg"
+        src="./public/rectangle-28.svg"
         id="popuprectangle"
       />
 
-      <div
-        class="absolute top-[739px] left-[62px] text-xs tracking-[-0.01em] text-center flex items-center justify-center w-[63px] h-[11px]"
-      >
-        LOG OUT
-      </div>
+      <div class="log-out">LOG OUT</div>
     </div>
 
     <script>
@@ -91,13 +62,13 @@
           window.location.href = "./IPhone147.html";
         });
       }
-      
+
       var popuprectangle = document.getElementById("popuprectangle");
       if (popuprectangle) {
         popuprectangle.addEventListener("click", function (e) {
-          window.location.href = "./IPhone141.html";
+          window.location.href = "/";
         });
       }
-      </script>
+    </script>
   </body>
 </html>

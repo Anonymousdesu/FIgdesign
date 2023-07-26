@@ -1,0 +1,155 @@
+.pm5,
+.shape5 {
+  position: absolute;
+}
+.shape5 {
+  height: 0.59%;
+  width: 36%;
+  top: 98.1%;
+  right: 31.95%;
+  bottom: 1.3%;
+  left: 32.05%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.pm5 {
+  top: 7px;
+  left: 38px;
+  display: inline-block;
+  width: 60px;
+  height: 16px;
+}
+.frame-icon5,
+.vector-icon6 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon6 {
+  height: 64.29%;
+  width: 6.04%;
+  top: 21.43%;
+  right: 15.24%;
+  bottom: 14.29%;
+  left: 78.72%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-icon5 {
+  top: 4px;
+  left: 332px;
+  width: 26px;
+  height: 24px;
+}
+.top4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 390px;
+  height: 28px;
+  font-size: 12px;
+  color: #000;
+  font-family: Inter;
+}
+.enter-new-password {
+  position: relative;
+  font-weight: 600;
+}
+.enter-new-password-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.at-least-8-digits-wrapper {
+  position: relative;
+  border-radius: 30px;
+  border: 1px solid #444;
+  box-sizing: border-box;
+  width: 358px;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #8f8f8f;
+}
+.frame-parent {
+  position: absolute;
+  top: 168px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.div,
+.frame-group {
+  position: absolute;
+  top: 15px;
+  left: 36px;
+}
+.frame-group {
+  top: 281px;
+  left: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.change-password {
+  position: absolute;
+  top: 95px;
+  left: 109px;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-family: Comfortaa;
+  color: #325bc3;
+  display: flex;
+  align-items: center;
+  width: 172px;
+  height: 43px;
+}
+.iphone-14-7-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #325bc3;
+  position: absolute;
+  top: 394px;
+  left: 128px;
+  border-radius: 22px;
+  width: 133px;
+  height: 45px;
+}
+.confirm {
+  position: absolute;
+  top: 406px;
+  left: 160px;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-family: Comfortaa;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 69px;
+  height: 21px;
+}
+.union-icon3 {
+  position: relative;
+  width: 12.21px;
+  height: 11.35px;
+  cursor: pointer;
+}
+.iphone-14-7 {
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #444;
+  font-family: Montserrat;
+}

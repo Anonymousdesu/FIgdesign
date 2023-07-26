@@ -1,0 +1,421 @@
+.shape10 {
+  position: absolute;
+  height: 0.62%;
+  width: 37.4%;
+  top: 98.38%;
+  right: -97.78%;
+  bottom: 1%;
+  left: 160.39%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.iphone-14-4-child,
+.iphone-14-4-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 361px;
+  height: 24px;
+}
+.iphone-14-4-inner {
+  width: 390px;
+  height: 28px;
+}
+.login2 {
+  position: absolute;
+  top: 378px;
+  left: 158px;
+  color: #fff;
+  display: inline-block;
+  width: 73px;
+  height: 21px;
+  mix-blend-mode: normal;
+}
+.frame-icon7,
+.vector-icon9 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon9 {
+  height: 2.13%;
+  width: 6.04%;
+  top: 0.71%;
+  right: 15.24%;
+  bottom: 97.16%;
+  left: 78.72%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-icon7 {
+  top: 4px;
+  left: 332px;
+  width: 26px;
+  height: 24px;
+}
+.pm8 {
+  position: absolute;
+  top: 7px;
+  left: 38px;
+  font-size: 12px;
+  font-family: Inter;
+  text-align: left;
+  display: inline-block;
+  width: 60px;
+  height: 16px;
+}
+.follow-kilo-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #325bc3;
+  position: absolute;
+  top: calc(50% - 26px);
+  left: calc(50% - 171.5px);
+  border-radius: 6px;
+  width: 343px;
+  height: 52px;
+}
+.follow-kilozin1 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 54.5px);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+}
+.follow-kilo-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 246px;
+  left: 24px;
+  width: 343px;
+  height: 52px;
+}
+.follow-kilo-button-wrapper {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-color: #fff;
+  width: 390px;
+  height: 1435px;
+  overflow-y: auto;
+}
+.ellipse-icon1 {
+  position: absolute;
+  top: 55px;
+  left: 30px;
+  border-radius: 50%;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.prey-veng-kh,
+.zilozin {
+  position: absolute;
+  top: 89px;
+  left: 190px;
+  letter-spacing: -0.01em;
+}
+.prey-veng-kh {
+  top: 146px;
+  left: 201px;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: Roboto;
+}
+.profile-child12,
+.profile-child13 {
+  position: absolute;
+  top: 422px;
+  left: 24px;
+  width: 167px;
+  height: 220px;
+  object-fit: cover;
+}
+.profile-child13 {
+  top: 1076px;
+  left: 202px;
+  width: 166px;
+}
+.profile-child14,
+.profile-child15,
+.profile-child16,
+.profile-child17 {
+  position: absolute;
+  top: 422px;
+  left: 202px;
+  width: 166px;
+  height: 293.92px;
+  object-fit: cover;
+}
+.profile-child15,
+.profile-child16,
+.profile-child17 {
+  top: 733px;
+  height: 310px;
+}
+.profile-child16,
+.profile-child17 {
+  top: 986px;
+  left: 24px;
+  width: 167px;
+}
+.profile-child17 {
+  top: 659px;
+}
+.button-child,
+.button2 {
+  position: absolute;
+  top: 1382px;
+  left: 16px;
+  width: 343px;
+  height: 52px;
+}
+.button-child {
+  cursor: pointer;
+  border: 1px solid #325bc3;
+  padding: 0;
+  background-color: #fff;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+.message {
+  position: absolute;
+  top: 36.54%;
+  left: 40.61%;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: Roboto;
+  color: #325bc3;
+  text-align: center;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 311px;
+  left: calc(50% - 172px);
+  width: 343px;
+  height: 52px;
+}
+.union-icon8 {
+  position: relative;
+  width: 12.21px;
+  height: 11.35px;
+  cursor: pointer;
+}
+.union-icon9 {
+  position: relative;
+  width: 15.56px;
+  height: 14.06px;
+}
+.home1,
+.search-icon {
+  position: absolute;
+  height: 48.19%;
+  width: 10.67%;
+  top: 10.84%;
+  bottom: 40.96%;
+  overflow: hidden;
+}
+.home1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  right: 86.4%;
+  left: 2.93%;
+}
+.search-icon {
+  right: 67.47%;
+  left: 21.87%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.union-inner {
+  position: absolute;
+  top: calc(50% + 7px);
+  left: calc(50% + 29px);
+  width: 1px;
+}
+.union-child1,
+.union-inner,
+.union1 {
+  background-color: #fff;
+  height: 13px;
+}
+.union-child1 {
+  position: absolute;
+  top: calc(50% + 14px);
+  left: calc(50% + 23px);
+  width: 1px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.union1 {
+  position: relative;
+  width: 13px;
+}
+.upload1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #325bc3;
+  position: absolute;
+  height: 48.19%;
+  width: 18.67%;
+  top: 10.84%;
+  right: 40.31%;
+  bottom: 40.96%;
+  left: 41.03%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.union-icon10 {
+  position: relative;
+  width: 18px;
+  height: 16px;
+}
+.chat1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 48.19%;
+  width: 10.67%;
+  top: 10.84%;
+  right: 21.6%;
+  bottom: 40.96%;
+  left: 67.73%;
+  overflow: hidden;
+}
+.person-icon1,
+.profile37 {
+  position: absolute;
+  top: 11.5px;
+  left: 14.5px;
+  width: 11.43px;
+  height: 16px;
+}
+.profile37 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 48.19%;
+  width: 10.67%;
+  top: 10.84%;
+  right: 2.93%;
+  bottom: 40.96%;
+  left: 86.4%;
+  overflow: hidden;
+}
+.background3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0-0.5px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(27.18px);
+}
+.shape11 {
+  position: absolute;
+  height: 6.02%;
+  width: 36%;
+  top: 84.34%;
+  right: 32%;
+  bottom: 9.64%;
+  left: 32%;
+  border-radius: 10px;
+  background-color: #000;
+}
+.profile36,
+.tab-bar2 {
+  position: absolute;
+  width: 390px;
+}
+.tab-bar2 {
+  bottom: 0;
+  left: calc(50% - 195px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 83px;
+}
+.profile36 {
+  top: 28px;
+  left: 0;
+  background-color: #fff;
+  height: 816px;
+  overflow-y: auto;
+  font-size: 36px;
+  font-family: Comfortaa;
+}
+.iphone-14-4 {
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 15px;
+  color: #000;
+  font-family: "Times New Roman";
+}
+.b75d252-18aa-41a6-9e55-3e38a42-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 214.62px;
+  height: 380px;
+  object-fit: cover;
+}
+.frame-pic-2 {
+  position: relative;
+  background-color: #fff;
+  width: 215px;
+  height: 380px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+}
+.b75d252-18aa-41a6-9e55-3e38a42-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 380px;
+  object-fit: cover;
+}
+.frame-pic-1 {
+  position: relative;
+  background-color: #fff;
+  width: 364px;
+  height: 380px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+}
